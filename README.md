@@ -1,2 +1,2 @@
-# dio-flexbox-project
-Posicionando elementos com Flexbox em CSS
+# Posicionando elementos com Flexbox em CSS
+Curso Posicionando elementos com Flexbox em CSS da DIO
